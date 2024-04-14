@@ -1,5 +1,7 @@
 # Git demo
 
+[![Pytest](https://github.com/ofersadan85/git-demo/actions/workflows/tests.yml/badge.svg)](https://github.com/ofersadan85/git-demo/actions/workflows/tests.yml)
+
 The git demo will be here soon(ish)
 
 This should be another change
