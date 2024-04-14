@@ -3,6 +3,9 @@ name: Pytest
 on:
   push:
     branches: [ "main" ]
+    paths-ignore:
+      - "readme.md"
+      - ".gitignore"
 
 permissions:
   contents: read
