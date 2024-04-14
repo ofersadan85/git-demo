@@ -1,4 +1,4 @@
-from calc import one, two, three, four
+from nums import one, two, three, four
 
 
 def test_one():
