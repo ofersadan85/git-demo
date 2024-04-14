@@ -1,4 +1,4 @@
-from calc import one, two, three
+from calc import one, two, three, four
 
 
 def test_one():
@@ -11,6 +11,10 @@ def test_two():
 
 def test_three():
     assert three() == 3
+
+
+def test_four():
+    assert four() == 4
 
 
 def test_one_plus_two():
