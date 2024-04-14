@@ -15,3 +15,7 @@ This is a new feature
 ## Bugfix
 
 I fixed the bug (try 2) - success
+
+## New feature 2
+
+This is a new feature 2
