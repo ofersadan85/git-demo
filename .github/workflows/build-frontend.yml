@@ -28,7 +28,7 @@ jobs:
         run: |
           cd frontend
           npm ci
-          npm run build
+          npx vite build --base=/git-demo/
         env:
           CI: true
       - name: Deploy to GitHub Pages
